@@ -17,9 +17,3 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 layout: default
 ---
 
-**hola, esto es un ejemplo**
-
-1. hola
-2. adios
-
-[enlace](http://google.com)

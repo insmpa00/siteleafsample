@@ -21,6 +21,8 @@ description: |-
   * Esto es otro elemento
 
   **Teléfonos**
+
+  ![bear.jpg](/uploads/bear.jpg)
 layout: default
 ---
 

@@ -5,8 +5,8 @@ Field name:
   Name: 
   Url: 
   ImageUrl: 
-  City: 
   Country: 
+  City: 
   Address: 
 ---
 

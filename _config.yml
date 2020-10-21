@@ -15,6 +15,9 @@ collections:
   stores:
     title: Stores
     output: true
+  test:
+    title: Test
+    output: true
   uploads:
     title: Uploads
     output: true

@@ -8,10 +8,6 @@ collections:
   posts:
     title: Posts
     output: true
-    Test:
-      Key 1: 
-      Key:
-      - hola
   stores:
     title: Stores
     output: true

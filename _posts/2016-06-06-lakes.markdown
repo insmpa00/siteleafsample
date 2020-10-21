@@ -32,6 +32,6 @@ Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum dicer
 
 * Esto es una lista
 
-* Esto es otro elemento
+* Esto es otro elementoz
 
 [![PROMOCION ESPECIAL FW20.pdf](/uploads/PROMOCION%20ESPECIAL%20FW20.pdf)](/uploads/PROMOCION%20ESPECIAL%20FW20.pdf)
